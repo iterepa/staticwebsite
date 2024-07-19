@@ -1,0 +1,2 @@
+# staticwebsite
+html css practice
